@@ -1,6 +1,6 @@
-# Several-Simple-Regression-Prediction-Methods
-Several Simple Regression Prediction Methods（including-SVR, LR,  Lasso, ElasticNet, Gradient Boosting, Xgboost, lightGBM, Random Forest） 
-# Method description    
+# forecast-Methods
+Forecast Methods（SVR, LR,  Lasso, ElasticNet, Gradient Boosting, Xgboost, lightGBM, Random Forest） 
+# Method details    
 [SVR]-Support Vector Regression    
 [LR]-Logistic Regression    
 [Lasso]-Lasso Regression     
@@ -10,7 +10,7 @@ Several Simple Regression Prediction Methods（including-SVR, LR,  Lasso, Elasti
 [Xgboost]- Xgboost Regression   
 [lightGBM]- lightGBM Regression   
 [RF]-Random Forest Regression    
-# Copyright Clarify    
+# Copyright Clarification    
 Copyright ownership belongs to waguti julius, shall not be reproduced , copied, or used in other ways without permission. Otherwise waguti julius will have the right to pursue legal responsibilities.    
 # Editing information      
 Editor:waguti Julius                           
