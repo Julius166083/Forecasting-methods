@@ -13,7 +13,6 @@ Forecast Methods（SVR, LR,  Lasso, ElasticNet, Gradient Boosting, Xgboost, ligh
 # Copyright Clarification    
 Copyright ownership belongs to waguti julius, shall not be reproduced , copied, or used in other ways without permission. Otherwise waguti julius will have the right to pursue legal responsibilities.    
 # Editing information      
-Editor:waguti Julius                           
-E-mail:jwaguti@gmail.com            
+Editor:WJ                                       
 Edit date:2021-11-13    
 
