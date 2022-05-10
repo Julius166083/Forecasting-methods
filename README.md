@@ -10,8 +10,7 @@ Forecast Methods（SVR, LR,  Lasso, ElasticNet, Gradient Boosting, Xgboost, ligh
 [Xgboost]- Xgboost Regression   
 [lightGBM]- lightGBM Regression   
 [RF]-Random Forest Regression    
-# Copyright Clarification    
-Copyright ownership belongs to waguti julius, shall not be reproduced , copied, or used in other ways without permission. Otherwise waguti julius will have the right to pursue legal responsibilities.    
+  
 # Editing information      
 Editor:WJ                                       
 Edit date:2021-11-13    
